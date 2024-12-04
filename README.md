@@ -32,7 +32,7 @@
 
 1. Clone the repository:
 ```bash
-git clone 
+[git clone ](https://github.com/Madhubala-06/layerpath-playlist-3.git)
 ```
 
 2. Open `index.html` in your preferred browser
